@@ -32,3 +32,14 @@ BlackIce Nxt is a new systems board for the myStorm FPGA development board famil
 * Quad Tile expansion
 * USB Power delivery
 * Midplane expansion Connectors
+
+# Kit Development peripherals
+## Mixmod/Pmod and proto-typing double tile
+This double tile can accommodate multiple Pmods and a single Mixmod allowing the developer to use existing Pmod/Mixmod investments or select from the many peripherals available in the market place.
+## VGA Display Tile
+This fun Tile is capable or driving a standard VGA Monitor from the FPGA for anything from retro gaming to the next HDL GPU you are designing!
+## 7-Segment Display Tile
+This is a great old school display and a rite of passage for your HDL journey.
+
+# Expansion
+Expansion is what BlackIce Nxt is all about from the simple slot in MicroBlades to the mechanically robust Tiles. These expansions will enable you to drive digital displays and audio, DC and stepper moros, Networking like Ethernet and CanBus just to name a few. You can mix and match these peripherals and can start with the provided support examples to combine them into the next great Retro system,robot or embedded project as you see fit..
