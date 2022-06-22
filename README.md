@@ -28,7 +28,7 @@
 * RGB Status LED and Mode button
 * 8 General purpose GPIO pins in addition to the FPGA IO
 * 3 fast 12bit ADCs muxed over 8 pins, with sample rates up to 7MS/Sec
-
+aqs
 # [IceLogicBus](https://github.com/folknology/IceLogicBus) 
 **The IceLogic Bus forms a midplane between the systems controller and the quad Modular Tile expansion. It sports the following features:**
 
